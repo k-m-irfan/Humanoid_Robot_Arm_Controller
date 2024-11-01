@@ -47,16 +47,12 @@ This paper introduces a wearable robotic controller for teleoperation, capturing
 # Schematic for sensor interface and control.
 **Reference Module:**
 
-![reference module schematic](https://github.com/user-attachments/assets/d56d033a-2f0b-4a6d-a230-f4dae4044baa)
-![reference module pcb](https://github.com/user-attachments/assets/91dc172d-0a0a-4724-a2dc-f2c8518e0fea)
+![image](https://github.com/user-attachments/assets/5d3e97dc-0d25-4d64-b00a-130c3d434d72)
 
 **Palm Module:**
 
-![palm module schematic](https://github.com/user-attachments/assets/634c17da-0cc0-4486-b1f0-364b6890b712)
-![palm module pcb](https://github.com/user-attachments/assets/73ccbfe4-abd4-4b09-9dcf-7b95b35a1bf5)
+![image](https://github.com/user-attachments/assets/3b3fa285-f3c5-4448-a4a2-0cc8fb328482)
 
 **Receiver Module:**
 
-![receiver schematic](https://github.com/user-attachments/assets/a51928ca-a00d-42aa-a243-14f4f337553e)
-![receiver pcb](https://github.com/user-attachments/assets/eac086eb-ccc3-4661-90b0-06d74d1bf56b)
-
+![image](https://github.com/user-attachments/assets/fa446937-79ce-4c25-966b-77e168625b01)
